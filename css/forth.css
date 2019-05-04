@@ -1,0 +1,31 @@
+.forth-sec {
+  background: #c1c6ca;
+  height: 500px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.forth-sec img {
+  float: right;
+  height: 100%;
+}
+
+.forth-sec .texto {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  float: right;
+  text-align: right;
+}
+
+.forth-sec .texto h2 {
+  margin: 50px 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.forth-sec .texto h3 {
+  margin: 50px 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}

@@ -1,0 +1,31 @@
+.second-sec {
+  background: #656a6e;
+  height: 500px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.second-sec img {
+  height: 100%;
+}
+
+.second-sec .texto {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  float: left;
+}
+
+.second-sec .texto h2 {
+  margin: 50px 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: aliceblue;
+}
+
+.second-sec .texto h3 {
+  margin: 50px 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: aliceblue;
+}
