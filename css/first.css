@@ -2,3 +2,51 @@
   background: #8a9196;
   height: 1000px;
 }
+
+.floating-container {
+  position: relative;
+}
+
+.floating {
+  width: 40%;
+  height: 400px;
+  background: #656a6e;
+  top: -200px;
+  margin-left: 30%;
+  position: absolute;
+}
+
+.colums-container {
+  padding: 300px 0;
+}
+
+.colums-container h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.cards-list {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.imagem {
+  margin: 100px 25px 0 25px;
+  width: 250px;
+  height: 225px;
+  background: #c1c6ca;
+}
+
+.text-container {
+  margin: 0 25px;
+  width: 250px;
+  height: 175px;
+  background: aliceblue;
+}
+
+.text-container p {
+  padding: 60px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
