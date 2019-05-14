@@ -1,5 +1,8 @@
 .third-sec {
+  width: 100%;
   background: #99a0a7;
-  height: 669px;
-  overflow: hidden;
+}
+
+.third-sec .img-container img {
+  width: 100%;
 }

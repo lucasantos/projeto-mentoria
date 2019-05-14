@@ -1,20 +1,20 @@
 .forth-sec {
   background: #c1c6ca;
-  height: 500px;
   display: flex;
   justify-content: space-between;
 }
 
-.forth-sec img {
-  height: 100%;
+.forth-sec .img img {
+  width: 100%;
 }
 
 .forth-sec .texto {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  float: right;
   text-align: right;
+  width: 50%;
+  padding: 3% 5%;
 }
 
 .forth-sec .texto h2 {

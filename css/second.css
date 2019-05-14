@@ -1,19 +1,20 @@
 .second-sec {
-  background: #656a6e;
-  height: 500px;
+  background: #C1C6CA;
   display: flex;
   justify-content: space-between;
 }
 
-.second-sec img {
-  height: 100%;
+.second-sec .img img {
+  width: 100%;
 }
 
 .second-sec .texto {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  float: left;
+  text-align: left;
+  width: 50%;
+  padding: 3% 5%;
 }
 
 .second-sec .texto h2 {
@@ -29,3 +30,4 @@
   font-weight: bold;
   color: aliceblue;
 }
+
